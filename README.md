@@ -17,7 +17,8 @@ I'm a Mathematician, Data Scientist, and Computational Biologist. My work evolve
 
 I have a strong background in mathematics, machine learning, data science, spatial analysis, and statistics with experience in the payment technology industry, financial industry, Information technology, US goverment national laboratory, and academia. I am currently a data scientist and technology training manager at the leading payment industry company in the United States. Also, I am very open to research collaboration in Artificial Intelligence, mathematical modeling, and computational biology.
 
-## How to reach me: **temitopebenson@yahoo.com**
+## How to reach me: 
+ 📫  **temitopebenson@yahoo.com**
 
 ## Skills
 * 👨‍💻 Python, SQL, MatLab, C++, Snowflakes, AWS, Azure, GIT
