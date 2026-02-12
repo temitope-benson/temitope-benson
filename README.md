@@ -15,7 +15,7 @@ A PhD Candidate in Computational Data-Enabled Science and Engineering at the Uni
 
 I'm a Mathematician, Data Scientist, and Computational Biologist. My work evolves developing mathematical models, machine learning models, customer and marketing analytics. I have more than 8 years of experience working as a data scientist, mathematician,  and learning & development consultant in banking, consulting, marketing, technology, and academia. 
 
-I have a strong background in mathematics, machine learning, data science, spatial analysis, and statistics with experience in the payment technology industry, financial industry, Information technology, US goverment national laboratory, and academia. I am currently a data scientist and technology training manager at the leading payment industry company in the United States. Also, I am very open to research collaboration in Artificial Intelligence, mathematical modeling, and computational biology.
+I have a strong background in mathematics, machine learning, data science, spatial analysis, and statistics with experience in the payment technology industry, financial industry, Information technology, US goverment national laboratory, and academia. Also, I am very open to research collaboration in Artificial Intelligence, mathematical modeling, and computational biology.
 
 ## How to reach me: 
  📫  **temitopebenson@yahoo.com**
